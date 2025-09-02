@@ -76,11 +76,11 @@ Based in Indonesia 🇮🇩, I proudly wear two hats: Graphic Designer and UI/UX
 
 ## My Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sha-env&layout=donut&theme=tokyonight)](https://github.com/n4vrl0s3/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sha-env&layout=donut&theme=tokyonight)](https://github.com/sha-env/)
 
 <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=sha-env&show_icons=true&theme=tokyonight">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sha-env&theme=tokyonight)](https://www.instagram.com/n4vrl0s3/)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sha-env&theme=tokyonight)](https://www.instagram.com/sha.env/)
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=sha-env&theme=tokyo-night&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
 <img src="https://github-profile-trophy.vercel.app/?username=sha-env">
 <img width="1000" src="assets/snake.svg" alt="snake"/>
