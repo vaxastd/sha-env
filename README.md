@@ -1,10 +1,10 @@
 <div align=center>
-<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=100:8E1616,20:EEEEEE&section=footer&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=100:000000,20:EEEEEE&section=footer&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
 
-<img width="3840" height="2160" alt="Phrolova" src="https://github.com/user-attachments/assets/edda91d8-d049-410d-b66c-f6da1514a06f" />
-<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=20:8E1616,100:EEEEEE&section=header&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
+<img width="3840" height="2160" alt="Sha" src="https://github.com/user-attachments/assets/6e5203c3-2ed8-4a7e-a4fc-419e1cc259bf" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=70&color=20:000000,100:EEEEEE&section=header&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
 
-# Yansha
+# Sha
 
 </div>
 <div align=justify>
@@ -76,17 +76,17 @@ Based in Indonesia 🇮🇩, I proudly wear two hats: Graphic Designer and UI/UX
 
 ## My Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=n4vrl0s3&layout=donut&theme=tokyonight)](https://github.com/n4vrl0s3/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sha-env&layout=donut&theme=tokyonight)](https://github.com/n4vrl0s3/)
 
-<img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=n4vrl0s3&show_icons=true&theme=tokyonight">
+<img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=sha-env&show_icons=true&theme=tokyonight">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=n4vrl0s3&theme=tokyonight)](https://www.instagram.com/n4vrl0s3/)
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=n4vrl0s3&theme=tokyo-night&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
-<img src="https://github-profile-trophy.vercel.app/?username=n4vrl0s3">
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sha-env&theme=tokyonight)](https://www.instagram.com/n4vrl0s3/)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sha-env&theme=tokyo-night&hide_border=true&hide_title=false&area=true&custom_title=Total%20contribution%20graph%20in%20all%20repo">
+<img src="https://github-profile-trophy.vercel.app/?username=sha-env">
 <img width="1000" src="assets/snake.svg" alt="snake"/>
 
 <hr><br>
 
-<a href="https://www.x.com/n4vrl0s3/">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=100:8E1616,20:EEEEEE&section=footer&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
+<a href="https://www.instagram.com/sha.env/">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=100:000000,20:EEEEEE&section=footer&reversal=false&textBg=false&fontAlignY=50&descAlign=48&descAlignY=59"/>
 </a>
