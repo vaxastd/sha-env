@@ -8,7 +8,7 @@ Thank you for your interest in contributing to this project! Your contributions 
    - Click the `Fork` button at the top of this repository page.
 2. Clone the forked repository to your local machine.
    ```bash
-   git clone https://github.com/username/vaxastd.git
+   git clone https://github.com/username/sha-wrks.git
    ```
    - Replace `username` with your GitHub username.
 3. Create a new branch
@@ -47,7 +47,7 @@ If you find any bugs or have suggestions for improvements, please create a new i
 
 ## Communication
 
-If you want to discuss something related to your contribution or the project in general, feel free to reach out to us via [Discussions](https://github.com/vaxastd/vaxastd/discussions).
+If you want to discuss something related to your contribution or the project in general, feel free to reach out to us via [Discussions](https://github.com/sha-wrks/sha-wrks/discussions).
 
 <br>
 Thank you for your contribution!

@@ -10,7 +10,7 @@ If you discover a security vulnerability within this repository, please follow t
 
 2. **Send an email to the security team.**
 
-   - Please report the vulnerability to our security team via email at [vaxa@vaxastd.com]. Include as much detail as possible about the vulnerability and any potential fixes.
+   - Please report the vulnerability to our security team via email at [yansha@yansha.dev]. Include as much detail as possible about the vulnerability and any potential fixes.
 
 3. **Provide detailed information.**
 
@@ -34,5 +34,5 @@ We will issue security updates for supported versions of our project as soon as 
 
 By following this Security Policy, you help us maintain a secure and reliable project for everyone. Thank you for your cooperation and contribution to the security of our project.
 
-If you have any questions or need further assistance, please contact us at [vaxa@vaxastd.com].
+If you have any questions or need further assistance, please contact us at [yansha@yansha.dev].
 
