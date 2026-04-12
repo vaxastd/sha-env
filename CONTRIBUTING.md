@@ -14,7 +14,7 @@ Thank you for your interest in contributing to this project! Your contributions 
 3. Create a new branch
    - Create a new branch for the feature or fix you want to add.
    ```
-   cd go-limiter
+   cd sha-wrks
    git checkout -b your-branch-name
    ```
    - Use a descriptive branch name that reflects the feature or fix you are working on.
